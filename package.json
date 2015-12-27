@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "d3": "3.5.5",
-    "svg-typewriter": "0.3.0"
+    "svg-typewriter": "palantir/svg-typewriter#v0.3.0"
   },
   "devDependencies": {
     "grunt": "~0.4.2",
